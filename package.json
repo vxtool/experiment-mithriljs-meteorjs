@@ -1,7 +1,7 @@
 {
   "name": "experiment-vuejs-meteorjs",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,7 @@
     "url": "https://github.com/experiment-solutions/experiment-mithriljs-meteorjs/issues"
   },
   "homepage": "https://github.com/experiment-solutions/experiment-mithriljs-meteorjs#readme",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "meteor-node-stubs": "~0.2.0",
     "mithril": "^0.2.4"
